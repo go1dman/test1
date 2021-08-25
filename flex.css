@@ -1,0 +1,66 @@
+.first{
+	width: 1300px;
+	height: 100px;
+	display: flex;
+	border: 1px solid black;
+	background-color: lightgrey;
+	justify-content: start;
+	align-items: center;
+	margin: 10px;
+}
+.one{
+	width: 100px;
+	height: 80px;
+	border: 1px solid black;
+	border-radius: 20%;
+	margin: 0 10px;
+	background-color: blue;
+}
+.second{
+	width: 1300px;
+	display: flex;
+	border: 1px solid black;
+	flex-direction: row-reverse;
+	justify-content: flex-start;
+	margin: 10px;
+
+}
+.two{
+	width: 100px;
+	height: 80px;
+	border: 1px solid black;
+	margin: 0 10px;
+	background-color: red;
+}	
+.third{
+	width: 1300px;
+	height: 100px;
+	display: flex;
+	border: 1px solid black;
+	justify-content: start;
+	align-items: center;
+	margin: 10px;
+	justify-content: space-between;
+}
+.three{
+	width: 100px;
+	height: 80px;
+	border: 1px solid black;
+	border-radius: 20%;
+	margin: 0 10px;
+	background-color: blue;
+}	
+
+img{
+	width: 100px;
+	height: 80px;
+	border-radius: 20%;
+	justify-content: start;
+}
+.zz{
+
+	justify-content: space-between;
+}
+.wr{
+	display: flex;
+}
